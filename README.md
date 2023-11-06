@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Danish c# software development student.
+
 <!--
 **olavlinddam/olavlinddam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
