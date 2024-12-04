@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Danish c# software development student.
+Recent AP Computer Science gratuate focused on .NET based software development. 
+
+
+- 🔭 I’m currently working on a web scraper to fetch, store and display job listings relevant for me in my area. Check out my progress at https://github.com/olavlinddam/JobScraper.
 
 <!--
 **olavlinddam/olavlinddam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
